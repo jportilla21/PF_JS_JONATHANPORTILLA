@@ -1,0 +1,22 @@
+[
+    {
+      "title": "Ganador Energía",
+      "price": "$32.000",
+      "image": "./imagenes/energia.jpg"
+    },
+    {
+      "title": "Ganador Leche",
+      "price": "$34.000",
+      "image": "./imagenes/leche.jpg"
+    },
+    {
+      "title": "Ganador Proteína",
+      "price": "$36.000",
+      "image": "./imagenes/proteina.jpg"
+    },
+    {
+      "title": "Ganador Porcinos",
+      "price": "$39.000",
+      "image": "./imagenes/cerdos.jpg"
+    }
+  ]
